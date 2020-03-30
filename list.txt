@@ -1,0 +1,10 @@
+total 40
+drwxr-xr-x  3 shuai shuai 4096 3月  23 23:30 .
+drwxr-xr-x 22 shuai shuai 4096 3月  23 23:30 ..
+-rw-rw-r--  1 shuai shuai    5 3月  19 01:18 eidt prac2.py
+drwxr-xr-x  8 shuai shuai 4096 3月  23 15:28 .git
+-rw-r--r--  1 shuai shuai    0 3月  23 23:30 list.txt
+-rw-r--r--  1 shuai shuai  406 3月  23 18:15 practiceOne.py
+-rw-r--r--  1 shuai shuai   16 3月  23 15:22 README.md
+-rwxrwxr-x  1 shuai shuai 8304 3月  16 02:33 test
+-rw-r--r--  1 shuai shuai   84 3月  16 02:33 test.c

@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
+#! /usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 list_test = [x if x % 2 == 0 else -x for x in range(1, 11)]
 print(list_test)
 list_test = [x + 1 if x % 2 == 0 else -x for x in range(1, 11)]
